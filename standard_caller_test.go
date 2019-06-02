@@ -2,7 +2,7 @@ package telnet
 
 
 import (
-	"github.com/reiver/go-oi"
+	"github.com/TakuKitamura/go-oi"
 
 	"bytes"
 	"io/ioutil"

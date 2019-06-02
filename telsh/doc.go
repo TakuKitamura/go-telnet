@@ -12,9 +12,9 @@ Here is an example usage:
 	package main
 	
 	import (
-		"github.com/reiver/go-oi"
-		"github.com/reiver/go-telnet"
-		"github.com/reiver/go-telnet/telsh"
+		"github.com/TakuKitamura/go-oi"
+		"github.com/TakuKitamura/go-telnet"
+		"github.com/TakuKitamura/go-telnet/telsh"
 
 		"io"
 	)
@@ -68,9 +68,9 @@ Here is a more "unpacked" example:
 	
 	
 	import (
-		"github.com/reiver/go-oi"
-		"github.com/reiver/go-telnet"
-		"github.com/reiver/go-telnet/telsh"
+		"github.com/TakuKitamura/go-oi"
+		"github.com/TakuKitamura/go-telnet"
+		"github.com/TakuKitamura/go-telnet/telsh"
 		
 		"io"
 		"time"
