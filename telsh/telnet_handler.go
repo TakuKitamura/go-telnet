@@ -112,7 +112,7 @@ func (telnetHandler *ShellHandler) ServeTELNET(ctx telnet.Context, writer telnet
 	}
 
 
-	colonSpaceCommandNotFoundEL := []byte(": command not found\r\n")
+	colonSpaceCommandNotFoundEL := []byte("\r\n")
 
 
 	var prompt          bytes.Buffer
